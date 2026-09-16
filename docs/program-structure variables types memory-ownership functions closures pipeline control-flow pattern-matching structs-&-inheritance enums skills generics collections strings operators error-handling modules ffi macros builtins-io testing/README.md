@@ -1,0 +1,2 @@
+// Topic: program-structure variables types memory-ownership functions closures pipeline control-flow pattern-matching structs-&-inheritance enums skills generics collections strings operators error-handling modules ffi macros builtins-io testing
+// Documentation for program-structure variables types memory-ownership functions closures pipeline control-flow pattern-matching structs-&-inheritance enums skills generics collections strings operators error-handling modules ffi macros builtins-io testing syntax topic
