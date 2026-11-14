@@ -1,8 +1,9 @@
 {
-  "name": "Grammar",
-  "scopeName": "source.grammar",
+  "name": "Mire",
+  "scopeName": "source.mire",
   "fileTypes": [
-    "mire"
+    "mire",
+    "mr"
   ],
   "patterns": [
     {

@@ -8,8 +8,8 @@ This grammar is independent from the compiler implementation and is distributed 
 
 GitHub Linguist uses this grammar to auto-detect `.mire` files in repositories. The grammar is properly configured for Linguist with:
 
-- **File extension**: `.mire`
-- **Scope name**: `source.grammar`
+- **File extensions**: `.mire` and `.mr`
+- **Scope name**: `source.mire`
 - **Language name**: `Mire`
 
 Linguist will automatically:
@@ -72,7 +72,7 @@ This grammar follows Semantic Versioning:
 - **MINOR**: New syntax support without breaking changes
 - **PATCH**: Bug fixes and pattern refinements
 
-Current version: 1.1.0 (corresponds to Mire/Avenys v1.1.0+)
+Current version: 1.2.0 (corresponds to Mire/Avenys 4.4.x)
 
 ## License
 
