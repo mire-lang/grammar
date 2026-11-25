@@ -25,9 +25,10 @@ The grammar is implemented as a TextMate grammar (`mire.tmLanguage.json`). It pr
 - Syntax highlighting for all Mire language constructs
 - Scope names for accurate editor integration
 - Pattern matching for language features
-- Support for the `.mire` file extension
+- Support for the `.mire` and `.mr` file extensions
 
-The grammar is located at `grammar/mire.tmLanguage.json` and follows the standard TextMate grammar format.
+The grammar is the single file `mire.tmLanguage.json` at the repository root and
+follows the standard TextMate grammar format.
 
 ## Supported Language Features
 
@@ -61,9 +62,10 @@ This grammar highlights the following Mire language constructs:
 
 ## Documentation
 
-- **CONTRIBUTING.md**: Contribution guidelines
-- **CHANGELOG.md**: Version history
-- **docs/**: 20 topic areas covering all Mire syntax constructs
+- **CONTRIBUTING.md**: contribution guidelines and how to test a change
+- **CHANGELOG.md**: version history
+- **mire.tmLanguage.json**: the grammar itself; its `repository` object is the
+  only place syntax patterns are defined
 
 ## Versioning
 
